@@ -3,6 +3,7 @@
 
 
 
-示例代码，为动态调用 GetUserName() 函数
+示例代码，为动态调用 GetUserName() 函数，除了此函数，还有其他函数可以使用，具体可以看MSDN
+https://learn.microsoft.com/en-us/windows/win32/api/dbghelp/
 
 ![1](https://github.com/Haunted-Banshee/SymFromAddress/blob/main/1.png)
